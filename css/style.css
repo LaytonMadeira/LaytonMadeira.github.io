@@ -264,6 +264,23 @@ body {
     color: white;
 }
 
+.tech-stack span.productivity{
+    background-color: #2f158e; 
+    color: white;
+}
+
+.tech-stack span.CEA{
+    background-color: #4285F4; 
+    color: #FFFFFF;
+}
+
+
+
+.tech-stack span.manifest{
+    background-color: #34A853; 
+    color: white;
+}
+
 /* Buttons */
 .card-links {
     display: flex;
